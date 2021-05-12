@@ -1,3 +1,11 @@
+This Fork is from dsixda's Android Kitchen original creation. All credit goes to dsixda and contributing Devs for the base of this branch.
+  - I intend to make some updates to the original work and hopefully add new functions and compatibility with the latest AndroidOS releases; at least from Nougat(7)
+through R(11). Everyone is welcome to contribute. I am a little rusty on coding and have plenty of learning to do but I want to be consistent with practice and effort. 
+     -- Please feel free to join in contributing and don't be shy about correcting anything I contribute. 
+  -> I encourage collaboration so zap me messages and I will try to respond quickly.
+
+
+....the following is dsixda's original README text, included for reference and proper credit to dsixda and contributing developers. Thank You! {
 
 Welcome to dsixda's Android Kitchen.  This is a ROM customization kitchen used for Android devices made by manufacturers such as HTC, Samsung and many others.
 
@@ -12,4 +20,7 @@ https://github.com/dsixda/Android-Kitchen/archive/master.zip
 
 A list of supported devices, as well as release notes, setup instructions and FAQ are all found here:
 http://forum.xda-developers.com/showthread.php?p=5626292
+
+/}
+
 
